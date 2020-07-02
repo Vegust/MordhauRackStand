@@ -1,6 +1,6 @@
 # MordhauRackStand
 
-Mordhau RockStand map source
+Mordhau RackStand map source
 
 Map page https://mordhau.mod.io/rackstand
 
